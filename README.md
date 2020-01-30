@@ -1,27 +1,29 @@
-<!-- markdownlint-disable MD033 -->
+<!-- Header -->
 <p align="center">
- <img width="200" height="200" src="./images/profile.jpeg"/>
+  <img width="200" height="200" src="./images/profile.jpeg"/>
 </p>
 <h1 align="center">Daniel Rocha</h1>
 <h3 align="center">iOS Developer</h3>
 
+<!-- Contacts -->
 <p align="center">
- <a href="https://github.com/danielrsousa">
-  <img src="https://img.shields.io/static/v1?label=Github&message=danielrsousa&style=for-the-badge">
- </a>
- <a href="https://linkedin.com/in/danielrsousa/">
-  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=danielrsousa&color=2867B2&style=for-the-badge">
- </a>
- <a href="mailto:danielrochadesousa@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=Email&message=Daniel&color=F76831&style=for-the-badge">
- </a>
+  <a href="https://github.com/danielrsousa">
+    <img src="https://img.shields.io/static/v1?label=Github&message=danielrsousa&style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/danielrsousa/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=danielrsousa&color=2867B2&style=for-the-badge">
+  </a>
+  <a href="mailto:danielrochadesousa@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Email&message=Daniel&color=F76831&style=for-the-badge">
+  </a>
 </p>
 
+<!-- About of me -->
 <p align="center">
 I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
 </p>
 
-<h1 align="center">Work Experience</h1>
+<h1 align="center">Projetos que tive participação no seu desenvolvimento</h1>
 
 <p align="center">
  <img src="./images/pagbank/logo.png" alt="App Icon" width="100" height="100">
@@ -36,8 +38,8 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- PagBank is a very popular digital bank located in Brazil.<br>
- I'm working in this project since 2018 using Swift, web services integration, external frameworks, analytics implementation, SwiftLint, UnitTest, UITest, MVVM-C, git, code review, Jira, Jenkins and fastlane.
+ PagBank é um banco digital<br>
+ Estou trabalhando neste projeto desde 2017 sendo responsável pelo desenvolvimento e manutenção de toda a aba de vendas do aplicativo, estamos utilizando no projeto Swift, com integrações web, MVVM-C, SwiftLint, Google Analytics, testes unitários, testes de interface, GIT, code review, Jira Jenkins e Fastlane
 </p>
 <p align="center">
   <img src="./images/pagbank/page1.png" alt="Screenshot" width="220" height="417">
@@ -57,8 +59,8 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- PagSeguro Vendas is great app located in Brazil, used by a salesperson.<br>
- I'm working in this project since 2018 using Swift, external frameworks, SwiftLint, UnitTest, UITest, Viper, reactive programming, git, code review, Jira, Jenkins and fastlane.
+ PagSeguro Vendas é um aplicativo voltado para pequenos vendedores<br>
+ Estou trabalhando neste projeto desde 2015 desenvolvendo novas features e dando sustentação do mesmo, utilizando Swift, com integrações web, VIPER, SwiftLint, Google Analytics, testes unitários, testes de interface, GIT, code review, Jira Jenkins e Fastlane
 </p>
 
 <p align="center">
@@ -79,8 +81,8 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- Itau is a bigger bank located in Brazil.<br>
- I worked in this project from 2017 to 2018 using Swift and Objective-C, web services integration, external frameworks, cocoapods, accessibility, UnitTest, MVC, git, GitLab and Scrum.
+Este é um aplicativo em que você pode comprar os cosmeticos da case de perfumaria Natura.<br>
+Trabalhei neste projeto em 2016 criando novas features utilizamos Swift, com integrações web, GIT e Firebase.
 </p>
 
 <p align="center">
@@ -102,8 +104,8 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- Itau is a bigger bank located in Brazil.<br>
- I worked in this project from 2017 to 2018 using Swift and Objective-C, web services integration, external frameworks, cocoapods, accessibility, UnitTest, MVC, git, GitLab and Scrum.
+ Este é um aplicativo em que você pode comprar os lanches da rede Burger King Brasil.<br>
+Trabalhei neste projeto em 2017 onde atuei na manutenção e criação de novas features, foi utilizado a linguagem Swift, com integrações web, GIT e JIRA
 </p>
 
 <p align="center">
