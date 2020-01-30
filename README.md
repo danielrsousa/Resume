@@ -12,9 +12,6 @@
  <a href="https://linkedin.com/in/danielrsousa/">
   <img src="https://img.shields.io/static/v1?label=LinkedIn&message=danielrsousa&color=2867B2&style=for-the-badge">
  </a>
- <a href="./resume.pdf">
-  <img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=green&style=for-the-badge">
- </a>
  <a href="mailto:danielrochadesousa@gmail.com">
   <img src="https://img.shields.io/static/v1?label=Email&message=Daniel&color=F76831&style=for-the-badge">
  </a>
@@ -43,7 +40,7 @@ I'm passionate about technology, science, developing things that improve people'
  I'm working in this project since 2018 using Swift, web services integration, external frameworks, analytics implementation, SwiftLint, UnitTest, UITest, MVVM-C, git, code review, Jira, Jenkins and fastlane.
 </p>
 <p align="center">
- <img src="./images/pagbank/pagbank.PNG" alt="Screenshot" width="652" height="417">
+ <img src="./images/pagbank/pagbank.PNG" alt="Screenshot" width="220" height="417">
 </p>
 
 <p align="center">
@@ -64,17 +61,17 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
-<img src="./images/vendas/vendas.PNG" alt="Screenshot" width="652" height="417">
+<img src="./images/vendas/vendas.PNG" alt="Screenshot" width="220" height="417">
 </p>
 
 <p align="center">
- <img src="./images/Itau/logo.png" alt="App Icon" width="100" height="100">
+ <img src="./images/natura/logo.png" alt="App Icon" width="100" height="100">
 </p>
 
 <h3 align="center">Natura</h3>
 
 <p align="center">
- <a href="https://apps.apple.com/br/app/banco-itaú-sua-conta-no-app/id474505665">
+ <a href="https://apps.apple.com/br/app/natura-cosm%C3%A9ticos-e-maquiagem/id1061637276">
   <img src="./images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
  </a>
 </p>
@@ -85,5 +82,27 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- <img src="./images/Natura/natura.png" alt="Screenshot" width="440" height="417">
+ <img src="./images/Natura/natura.png" alt="Screenshot" width="220" height="417">
+</p>
+
+
+<p align="center">
+ <img src="./images/burgerking/logo.png" alt="App Icon" width="100" height="100">
+</p>
+
+<h3 align="center">Burger King</h3>
+
+<p align="center">
+ <a href="https://apps.apple.com/br/app/natura-cosm%C3%A9ticos-e-maquiagem/id1061637276">
+  <img src="./images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+ </a>
+</p>
+
+<p align="center">
+ Itau is a bigger bank located in Brazil.<br>
+ I worked in this project from 2017 to 2018 using Swift and Objective-C, web services integration, external frameworks, cocoapods, accessibility, UnitTest, MVC, git, GitLab and Scrum.
+</p>
+
+<p align="center">
+ <img src="./images/burgerking/burgerking.png" alt="Screenshot" width="220" height="417">
 </p>
