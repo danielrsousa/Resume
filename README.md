@@ -20,7 +20,7 @@
 
 <!-- About of me -->
 <p align="center">
-I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
+Desde 2015 atuo como desenvolvedor iOS, durante minha jornada participei de grandes projetos onde apreendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho  para a PagSeguro no time responsável pelo sistema de vendas, atuo desenvolvendo novas funcionalidades e acompanho o desempenho do app atraves de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic). 
 </p>
 
 <h1 align="center">Projetos que tive participação</h1>
