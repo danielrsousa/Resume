@@ -23,7 +23,7 @@
 I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
 </p>
 
-<h1 align="center">Projetos que tive participação no seu desenvolvimento</h1>
+<h1 align="center">Projetos que tive participação</h1>
 
 <p align="center">
  <img src="./images/pagbank/logo.png" alt="App Icon" width="100" height="100">
