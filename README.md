@@ -21,7 +21,7 @@ Atuo desde 2015 com o desenvolvimento de aplicatios na plataforma iOS, durante e
 </p>
 
 <p align="center">
-  <img width="317" height="120" src="./images/profileApp.png"/>
+  <img width="367" height="170" src="./images/profileLandscasp.png"/>
 </p>
 
 <h1 align="center">Projetos que tive participação</h1>
