@@ -27,7 +27,7 @@ I'm passionate about technology, science, developing things that improve people'
 <h1 align="center">Work Experience</h1>
 
 <p align="center">
- <img src="./images/PagBank/logo.png" alt="App Icon" width="100" height="100">
+ <img src="./images/pagbank/logo.png" alt="App Icon" width="100" height="100">
 </p>
 
 <h3 align="center">PagBank - PagSeguro</h3>
@@ -48,7 +48,7 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- <img src="./images/Vendas/logo.png" alt="App Icon" width="100" height="100">
+ <img src="./images/vendas/logo.png" alt="App Icon" width="100" height="100">
 </p>
 
 <h3 align="center">Vendas - PagSeguro</h3>
@@ -65,7 +65,7 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- <img src="./images/vendas" alt="Screenshot" width="440" height="417">
+<img src="./images/vendas/vendas.png" alt="Screenshot" width="440" height="417">
 </p>
 
 <p align="center">
