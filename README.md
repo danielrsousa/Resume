@@ -42,9 +42,8 @@ I'm passionate about technology, science, developing things that improve people'
  PagBank is a very popular digital bank located in Brazil.<br>
  I'm working in this project since 2018 using Swift, web services integration, external frameworks, analytics implementation, SwiftLint, UnitTest, UITest, MVVM-C, git, code review, Jira, Jenkins and fastlane.
 </p>
-
 <p align="center">
- <img src="./images/PagBank/pagbank.png" alt="Screenshot" width="440" height="417">
+ <img src="./images/PagBank/pagbank.PNG" alt="Screenshot" width="652" height="417">
 </p>
 
 <p align="center">
@@ -65,7 +64,7 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
-<img src="./images/vendas/vendas.PNG" alt="Screenshot" width="440" height="417">
+<img src="./images/vendas/vendas.PNG" alt="Screenshot" width="652" height="417">
 </p>
 
 <p align="center">
