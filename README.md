@@ -38,7 +38,7 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- PagBank é um banco digital<br>
+ PagBank é um banco digital voltado pessoas fisicas e juridicas<br>
  Estou trabalhando neste projeto desde 2017 sendo responsável pelo desenvolvimento e manutenção de toda a aba de vendas do aplicativo, estamos utilizando no projeto Swift, com integrações web, MVVM-C, SwiftLint, Google Analytics, testes unitários, testes de interface, GIT, code review, Jira Jenkins e Fastlane
 </p>
 <p align="center">
