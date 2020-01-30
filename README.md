@@ -20,7 +20,7 @@
 
 <!-- About of me -->
 <p align="center">
-Desde 2015 atuo como desenvolvedor iOS, durante minha jornada participei de grandes projetos onde apreendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho  para a PagSeguro no time responsável pelo sistema de vendas, atuo desenvolvendo novas funcionalidades e acompanho o desempenho do app atraves de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic). 
+Atuo desde 2015 com o desenvolvimento de aplicatios na plataforma iOS, durante este período participei de grandes projetos onde apreendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho  para a PagSeguro no time responsável pelo sistema de vendas, onde desenvolvendo novas funcionalidades e acompanho o desempenho do app atraves de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic). 
 </p>
 
 <h1 align="center">Projetos que tive participação</h1>
