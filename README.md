@@ -40,7 +40,8 @@ I'm passionate about technology, science, developing things that improve people'
  I'm working in this project since 2018 using Swift, web services integration, external frameworks, analytics implementation, SwiftLint, UnitTest, UITest, MVVM-C, git, code review, Jira, Jenkins and fastlane.
 </p>
 <p align="center">
- <img src="./images/pagbank/pagbank.PNG" alt="Screenshot" width="220" height="417">
+  <img src="./images/pagbank/page1.png" alt="Screenshot" width="220" height="417">
+   <img src="./images/pagbank/page2.png" alt="Screenshot" width="220" height="417">
 </p>
 
 <p align="center">
@@ -61,7 +62,8 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
-<img src="./images/vendas/vendas.PNG" alt="Screenshot" width="220" height="417">
+ <img src="./images/vendas/page1.png" alt="Screenshot" width="220" height="417">
+  <img src="./images/vendas/page2.png" alt="Screenshot" width="220" height="417">
 </p>
 
 <p align="center">
@@ -82,7 +84,8 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- <img src="./images/Natura/natura.png" alt="Screenshot" width="220" height="417">
+ <img src="./images/natura/page1.png" alt="Screenshot" width="220" height="417">
+  <img src="./images/natura/page2.png" alt="Screenshot" width="220" height="417">
 </p>
 
 
@@ -104,5 +107,6 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
- <img src="./images/burgerking/burgerking.png" alt="Screenshot" width="220" height="417">
+ <img src="./images/burgerking/page1.png" alt="Screenshot" width="220" height="417">
+  <img src="./images/burgerking/page2.png" alt="Screenshot" width="220" height="417">
 </p>
