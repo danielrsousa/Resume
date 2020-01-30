@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img width="200" height="200" src="./images/profile.jpeg"/>
-</p>
 <h1 align="center">Daniel Rocha</h1>
 <h3 align="center">iOS Developer</h3>
 
@@ -21,6 +18,10 @@
 <!-- About of me -->
 <p align="center">
 Atuo desde 2015 com o desenvolvimento de aplicatios na plataforma iOS, durante este período participei de grandes projetos onde apreendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho  para a PagSeguro no time responsável pelo sistema de vendas onde desenvolvo novas funcionalidades e acompanho o desempenho do app atraves de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic). 
+</p>
+
+<p align="center">
+  <img width="220" height="417" src="./images/profileApp.png"/>
 </p>
 
 <h1 align="center">Projetos que tive participação</h1>
