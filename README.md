@@ -65,7 +65,7 @@ I'm passionate about technology, science, developing things that improve people'
 </p>
 
 <p align="center">
-<img src="./images/vendas/vendas.png" alt="Screenshot" width="440" height="417">
+<img src="./images/vendas/vendas.PNG" alt="Screenshot" width="440" height="417">
 </p>
 
 <p align="center">
