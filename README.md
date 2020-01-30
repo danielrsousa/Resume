@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">
- <img width="200" height="200" src="./images/profile.jpg"/>
+ <img width="200" height="200" src="./images/profile.jpeg"/>
 </p>
 <h1 align="center">Daniel Rocha</h1>
 <h3 align="center">iOS Developer</h3>
