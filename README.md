@@ -17,7 +17,7 @@
 
 <!-- About of me -->
 <p align="center">
-Atuo desde 2015 com o desenvolvimento de aplicatios na plataforma iOS, durante este período participei de grandes projetos onde apreendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho  para a PagSeguro no time responsável pelo sistema de vendas onde desenvolvo novas funcionalidades e acompanho o desempenho do app atraves de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic). 
+Atuo desde 2015 com o desenvolvimento de aplicativos na plataforma iOS, durante este período participei de grandes projetos onde aprendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho para a PagSeguro no time responsável pelo sistema de vendas onde desenvolvo novas funcionalidades e acompanho o desempenho do app através de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic).
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Atuo desde 2015 com o desenvolvimento de aplicatios na plataforma iOS, durante e
 </p>
 
 <p align="center">
- PagBank é um banco digital voltado pessoas fisicas e juridicas<br>
+ PagBank é um banco digital voltado pessoas físicas e jurídicas<br>
  Estou trabalhando neste projeto desde 2017 sendo responsável pelo desenvolvimento e manutenção de toda a aba de vendas do aplicativo, estamos utilizando no projeto Swift, com integrações web, MVVM-C, SwiftLint, Google Analytics, testes unitários, testes de interface, GIT, code review, Jira Jenkins e Fastlane
 </p>
 <p align="center">
@@ -82,7 +82,7 @@ Atuo desde 2015 com o desenvolvimento de aplicatios na plataforma iOS, durante e
 </p>
 
 <p align="center">
-Este é um aplicativo em que você pode comprar os cosmeticos da case de perfumaria Natura.<br>
+Este é um aplicativo em que você pode comprar os cosméticos da casa de perfumaria Natura.<br>
 Trabalhei neste projeto em 2016 criando novas features utilizamos Swift, com integrações web, GIT e Firebase.
 </p>
 
