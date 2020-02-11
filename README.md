@@ -17,7 +17,7 @@
 
 <!-- About of me -->
 <p align="center">
-Atuo desde 2015 com o desenvolvimento de aplicativos na plataforma iOS, durante este período participei de grandes projetos onde aprendi sobre diversas arquiteturas e tecnologias. Atualmente trabalho para a PagSeguro no time responsável pelo sistema de vendas onde desenvolvo novas funcionalidades e acompanho o desempenho do app através de ferramentas de gerenciamento de falhas (Crashlytics e NewRelic).
+Comecei minha carreira em 2012 trabalhando com .NET, porém em 2015 decidi me aventurar no universo Apple onde me apaixonei. De lá pra cá participei de projetos incríveis onde tive a oportunidade de conhecer novas metodologias de desenvolvimento com pessoas extremamente competentes. Caso tenha interesse podemos marcar um bate papo para conversamos sobre essas experiências.
 </p>
 
 <p align="center">
