@@ -61,7 +61,7 @@ Comecei minha carreira em 2012 trabalhando com .NET, porém em 2015 decidi me av
 
 <p align="center">
  PagSeguro Vendas é um aplicativo voltado para pequenos vendedores<br>
- Estou trabalhando neste projeto desde 2015 desenvolvendo novas features e dando sustentação do mesmo, utilizando Swift, com integrações web, VIPER, SwiftLint, Google Analytics, testes unitários, testes de interface, GIT, code review, Jira Jenkins e Fastlane
+ Estou trabalhando neste projeto desde 2015 desenvolvendo novas features e dando sustentação, utilizando Swift, com integrações web, VIPER, SwiftLint, Google Analytics, testes unitários, testes de interface, GIT, code review, Jira Jenkins e Fastlane
 </p>
 
 <p align="center">
